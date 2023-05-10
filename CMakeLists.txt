@@ -13,6 +13,8 @@ add_executable(Ascii-Art
     src/backend.h src/backend.cpp
 
     qml/qml.qrc
+
+    README.md
 )
 
 set_target_properties(Ascii-Art PROPERTIES
